@@ -6733,11 +6733,11 @@ h1, h2, h3, h4, h5, h6, .success-item .count-text, .pricing-header .price {
   margin-bottom: 0; }
   .service-box.style-two .service-normal {
     border: none;
-    padding: 40px; }
+    padding: 30px; }
     @media only screen and (max-width: 375px) {
       .service-box.style-two .service-normal {
-        padding-left: 25px;
-        padding-right: 25px; } }
+        padding-left: 50px;
+        padding-right: 50px; } }
     .service-box.style-two .service-normal .icon i {
       font-size: 55px;
       margin-bottom: 25px; }
