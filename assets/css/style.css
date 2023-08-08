@@ -44,7 +44,7 @@
     32. Main Footer */
 /* -------------------------------------------------------------- */
 /* Import Google Fonts */
-@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@700;800&family=Rubik:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@700;800&family=Montserrat:wght@400;500&display=swap");
 
 /*******************************************************/
 /******************* 01. Default Style *****************/
@@ -7303,7 +7303,7 @@ h1, h2, h3, h4, h5, h6, .success-item .count-text, .pricing-header .price {
     font-weight: 600;
     margin-bottom: 15px;
     color: #2F97F7;
-    font-family: "Rubik", sans-serif; }
+    font-family: "Montserrat", sans-serif; }
   .success-item.circle-style.color-two .count-text {
     color: #104cba; }
   .success-item.circle-style.color-three .count-text {
@@ -7396,7 +7396,7 @@ h1, h2, h3, h4, h5, h6, .success-item .count-text, .pricing-header .price {
     margin-right: 30px; }
   .success-item.style-five .count-text {
     margin-bottom: 15px;
-    font-family: "Rubik", sans-serif; }
+    font-family: "Montserrat", sans-serif; }
     .success-item.style-five .count-text.bg-text {
       position: absolute;
       font-size: 120px;
