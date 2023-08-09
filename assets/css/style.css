@@ -5992,7 +5992,7 @@ h1, h2, h3, h4, h5, h6, .success-item .count-text, .pricing-header .price {
   position: relative;
   text-align: center; }
   .images-with-shapes .mobile {
-    width: 44%;
+    width: 100%;
     border-radius: 40px;
     -webkit-box-shadow: 10px 0 60px rgba(109, 109, 109, 0.15);
     box-shadow: 10px 0 60px rgba(109, 109, 109, 0.15); }
