@@ -7551,12 +7551,12 @@ body.inter-center {
 
 header.full-height {
   min-height: 100vh;
-  padding: 10px 0 200px;
+  padding: 100px 0 80px;
 }
 
 header .full-height {
   min-height: 100vh;
-  padding: 10px 0 200px;
+  padding: 100px 0 80px;
 }
 
 header.in-box {
